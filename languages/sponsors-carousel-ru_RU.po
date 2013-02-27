@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sponsors carousel 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sponsors-carousel\n"
+"POT-Creation-Date: 2012-03-24 07:01:39+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sergey Panasenko <sergey.panasenko@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: UKRAINE\n"
+
+#. #-#-#-#-#  plugin.pot (Sponsors Carousel 2.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: sponsors-carousel.php:35
+msgid "Sponsors Carousel"
+msgstr "Карусель спонсоров"
+
+#: sponsors-carousel.php:188
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: sponsors-carousel.php:193
+msgid "Options"
+msgstr "Параметры"
+
+#: sponsors-carousel.php:245
+msgid "Options updated"
+msgstr "Параметры сохранены"
+
+#: sponsors-carousel.php:294
+msgid "%s Settings"
+msgstr "%s - Настройки"
+
+#: sponsors-carousel.php:296
+msgid "Speed:"
+msgstr "Скорость:"
+
+#: sponsors-carousel.php:298
+msgid "The speed of the animation. Options: 'fast', 'slow', or a number. 0 is instant, 10000 is very slow."
+msgstr "Скорость анимации. Параметры: 'fast', 'slow', или цифра. 0 - моментально, 10000 -очень медленно."
+
+#: sponsors-carousel.php:300
+msgid "Show Titles:"
+msgstr "Показывать заголовки"
+
+#: sponsors-carousel.php:310
+msgid "Yes, show image titles."
+msgstr "Да, показывать заголовки изображений"
+
+#: sponsors-carousel.php:322
+msgid "No, hide image titles. "
+msgstr "Нет, спрятать заголовки изображений"
+
+#: sponsors-carousel.php:324
+msgid "Should the title of each image be shown?"
+msgstr "Показывать заголовок каждого изображения?"
+
+#: sponsors-carousel.php:326
+msgid "Scroll Amount:"
+msgstr "Число прокручивающихся"
+
+#: sponsors-carousel.php:328
+msgid "How many items should the carousel scroll"
+msgstr "Как много элементов прокручивается в карусели"
+
+#: sponsors-carousel.php:333
+msgid "Auto scroll:"
+msgstr "Автоматическая прокрутка"
+
+#: sponsors-carousel.php:335
+msgid "Off"
+msgstr "Выключена"
+
+#: sponsors-carousel.php:336
+msgid "Fast"
+msgstr "Быстрая"
+
+#: sponsors-carousel.php:337
+msgid "Medium"
+msgstr "Средняя"
+
+#: sponsors-carousel.php:338
+msgid "Slow"
+msgstr "Медленная"
+
+#: sponsors-carousel.php:340
+msgid "Select the auto scrolling speed."
+msgstr "Выбрать скорость автоматической прокрутки."
+
+#: sponsors-carousel.php:345
+msgid "Link target:"
+msgstr "Открытие ссылки:"
+
+#: sponsors-carousel.php:347
+msgid "New Window or tab"
+msgstr "В новом окне или вкладке"
+
+#: sponsors-carousel.php:348
+msgid "Same Window or tab"
+msgstr "В том же окне или вкладке"
+
+#: sponsors-carousel.php:350
+msgid "Choose whether the links should open in the current window."
+msgstr "Выберите, будет ли ссылка открываться в текущем окне."
+
+#: sponsors-carousel.php:352
+msgid "Default link:"
+msgstr "Ссылка по-умолчанию:"
+
+#: sponsors-carousel.php:354
+msgid "Link to sponsors page. You can add custom link in image caption."
+msgstr "Ссылка на страницу спонсоров. Вы можете добавить уникальную ссылку в поле подписи к рисунку."
+
+#: sponsors-carousel.php:356
+msgid "New (select *full size* before insert): "
+msgstr "Новый (выберете  *full size* перед вставкой)"
+
+#: sponsors-carousel.php:360
+#: sponsors-carousel.php:362
+msgid "Add an Image"
+msgstr "Добавить изображение"
+
+#: sponsors-carousel.php:380
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/sponsors-carousel"
+msgstr "http://wordpress.org/extend/plugins/sponsors-carousel"
+
+#. Description of the plugin/theme
+msgid "Sponsors logos on javascript carousel."
+msgstr "Логотипы спонсоров на javascript-карусели."
+
+#. Author of the plugin/theme
+msgid "Sergey Panasenko"
+msgstr "Сергей Панасенко"
+
+#. Author URI of the plugin/theme
+msgid "http://nitay.dp.ua"
+msgstr "http://nitay.dp.ua"
+

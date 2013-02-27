@@ -1,0 +1,101 @@
+# Copyright (C) 2010 Sponsors Carousel
+# This file is distributed under the same license as the Sponsors Carousel package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sponsors Carousel 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sponsors-carousel\n"
+"POT-Creation-Date: 2011-12-20 05:02:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  plugin.pot (Sponsors Carousel 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: sponsors-carousel.php:34
+msgid "Sponsors Carousel"
+msgstr ""
+
+#: sponsors-carousel.php:170
+msgid "Options"
+msgstr ""
+
+#: sponsors-carousel.php:213
+msgid "Options updated"
+msgstr ""
+
+#: sponsors-carousel.php:262
+msgid "%s Settings"
+msgstr ""
+
+#: sponsors-carousel.php:264
+msgid "Speed:"
+msgstr ""
+
+#: sponsors-carousel.php:266
+msgid ""
+"The speed of the animation. Options: 'fast', 'slow', or a number. 0 is "
+"instant, 10000 is very slow."
+msgstr ""
+
+#: sponsors-carousel.php:268
+msgid "Show Titles:"
+msgstr ""
+
+#: sponsors-carousel.php:278
+msgid "Yes, show image titles."
+msgstr ""
+
+#: sponsors-carousel.php:290
+msgid "No, hide image titles. "
+msgstr ""
+
+#: sponsors-carousel.php:292
+msgid "Should the title of each image be shown?"
+msgstr ""
+
+#: sponsors-carousel.php:294
+msgid "Scroll Amount:"
+msgstr ""
+
+#: sponsors-carousel.php:296
+msgid "How many items should the carousel scroll"
+msgstr ""
+
+#: sponsors-carousel.php:298
+msgid "Default link:"
+msgstr ""
+
+#: sponsors-carousel.php:300
+msgid "Link to sponsors page. You can add custom link in image caption."
+msgstr ""
+
+#: sponsors-carousel.php:302
+msgid "New (select *full size* before insert): "
+msgstr ""
+
+#: sponsors-carousel.php:304
+msgid "Add an Image"
+msgstr ""
+
+#: sponsors-carousel.php:315
+msgid "Save Changes"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/sponsors-carousel"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Sponsors logos on javascript carousel."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sergey Panasenko"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://nitay.dp.ua"
+msgstr ""
