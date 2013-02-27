@@ -366,7 +366,7 @@ function scwp_options_page() {
 					    if (get_bloginfo ( 'version' )<"3.3")
 					      echo  _media_button(__('Add an Image'), 'images/media-button-image.gif?ver=20100531', 'image'); 
 					    else
-					      echo  _media_button(__('Add an Image'), 'images/media-button-image.gif?ver=20100531', 'image',$scwp_plugin_name); 
+					      echo  media_buttons(__('Add an Image'), 'images/media-button-image.gif?ver=20100531', 'image',$scwp_plugin_name); 
 					
 					?>
 					</div>
