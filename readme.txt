@@ -1,9 +1,9 @@
-=== Sponsors Carousel ===
+﻿=== Sponsors Carousel ===
 Contributors: Sergey Panasenko
 Donate link: 
 Tags: gallery, images, javascript, jquery, banners, sponsors, jcarousel
 Requires at least: 2.6
-Tested up to: 3.4.2
+Tested up to: 3.5.1
 Stable tag: trunk
 
 This plugin displays thumbnail images or banners in a carousel using jQuery jCarousel.
@@ -59,3 +59,4 @@ You can use CSS to change the look and feel of the layout. You can also create c
 * 2.00: New functionality:open link in new window and autoscroll (Thanks for <a href="http://wordpress.org/support/topic/plugin-sponsors-carousel-another-patch-new-window-and-auto-scroll">elija</a> ). 
 * 2.01: i18n update
 * 2.02: Continuous Mode (Thanks for Sebastián Valerio G.)
+* 2.03: Fixed issue with Add Media Button and formatted the Options page to mimic a native Wordpress plugin (Thanks to @davidwickman)

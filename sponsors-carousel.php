@@ -3,7 +3,7 @@
 Plugin Name: Sponsors Carousel
 Plugin URI: http://wordpress.org/extend/plugins/sponsors-carousel
 Description: Sponsors logos on javascript carousel.
-Version: 2.02
+Version: 2.03
 Author: Sergey Panasenko
 Author URI: http://nitay.dp.ua
 */
@@ -115,7 +115,7 @@ function sponsors_carousel($output=null, $attr=null) {
 			$output .= 'target="_blank"';
 		}
 		$output .= " id=\"item".$i. "\" href=\"".$link."\" class=\"jcarousel-item\">";
- 		if (get_option('scwp_show_titles')=='true') $output .= wp_get_attachment_image( $id,$thumb_size ); 
+		if (get_option('scwp_show_titles')=='true') $output .= wp_get_attachment_image( $id,$thumb_size ); 
 		else $output .= wp_get_attachment_image( $id,$thumb_size, false, array(title=>"") ); 
 		$output .= "</a></li>\n";
 		$n++;
@@ -400,7 +400,7 @@ function scwp_options_page() {
 			echo "</td><td   style='width:30px'>";
 			if ($scwp_id_num<count($scwp_id_array)) echo " <a href='?page=sponsors-carousel.php&image=".$scwp_id."&move=down'><img src='".$plugin_url."/images/down.png'></a> ";
 			echo "</td>";
-			 
+			
 			echo "<td style='padding:10px;width:40px;'><a href='media.php?attachment_id=".$scwp_id."&action=edit'>".wp_get_attachment_image( $scwp_id,array(125,75)) ."</a></td>";
 			$scwp_id_num++;
 			echo "<td style='padding:10px;'>".get_post($scwp_id)->post_excerpt."</td>";
